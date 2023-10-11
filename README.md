@@ -26,7 +26,7 @@ If you use this code for your research, please cite our paper:
 @ARTICLE{10247008,
   author={Aguilera-Carrasco, Cristhian A. and González-Böhme, Luis Felipe and Valdes, Francisco and Quitral-Zapata, Francisco Javier and Raducanu, Bogdan},
   journal={IEEE Access}, 
-  title={A Hand-Drawn Language for Human–Robot Collaboration in Wood Stereotomy}, 
+  title={A Hand-Drawn Language for Human–Robot Collaboration in Wood Stereotomy},
   year={2023},
   volume={11},
   number={},

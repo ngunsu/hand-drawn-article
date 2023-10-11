@@ -1,0 +1,7 @@
+train: /opt/datasets/fondef_id20I10262/workpieces_yolov5_symbols/full_train/
+val: /opt/datasets/fondef_id20I10262/workpieces_yolov5_symbols/f4_1/val/
+test: /opt/datasets/fondef_id20I10262/workpieces_yolov5_symbols/test/
+
+# Classes
+nc: 8  # number of classes
+names: ['mortise-side', 'peg-hole', 'invalid-line', 'reduce', 'arris', 'reference-face', 'remove', 'end-cut-line']  # class names
